@@ -7,9 +7,9 @@ export const ALL_WIFI_CHANNELS: WiFiChannel[] = [
     label: 'Channel 1',
     frequencyGhz: '2.412 GHz',
     band: '2.4 GHz',
-    color: '#DC2626', // Vibrant Red
+    color: '#EF4444', // Red
     lightColor: '#FEE2E2',
-    borderColor: '#B91C1C',
+    borderColor: '#DC2626',
     textColor: '#FFFFFF',
   },
   {
@@ -18,9 +18,9 @@ export const ALL_WIFI_CHANNELS: WiFiChannel[] = [
     label: 'Channel 6',
     frequencyGhz: '2.437 GHz',
     band: '2.4 GHz',
-    color: '#059669', // Emerald Green
-    lightColor: '#D1FAE5',
-    borderColor: '#047857',
+    color: '#2563EB', // Blue
+    lightColor: '#DBEAFE',
+    borderColor: '#1D4ED8',
     textColor: '#FFFFFF',
   },
   {
@@ -29,9 +29,9 @@ export const ALL_WIFI_CHANNELS: WiFiChannel[] = [
     label: 'Channel 11',
     frequencyGhz: '2.462 GHz',
     band: '2.4 GHz',
-    color: '#2563EB', // Royal Blue
-    lightColor: '#DBEAFE',
-    borderColor: '#1D4ED8',
+    color: '#10B981', // Green
+    lightColor: '#D1FAE5',
+    borderColor: '#059669',
     textColor: '#FFFFFF',
   },
   {
@@ -40,9 +40,9 @@ export const ALL_WIFI_CHANNELS: WiFiChannel[] = [
     label: 'Channel 36',
     frequencyGhz: '5.180 GHz',
     band: '5 GHz',
-    color: '#D97706', // Amber Gold
-    lightColor: '#FEF3C7',
-    borderColor: '#B45309',
+    color: '#6366F1', // Indigo
+    lightColor: '#E0E7FF',
+    borderColor: '#4F46E5',
     textColor: '#FFFFFF',
   },
   {
@@ -51,9 +51,9 @@ export const ALL_WIFI_CHANNELS: WiFiChannel[] = [
     label: 'Channel 44',
     frequencyGhz: '5.220 GHz',
     band: '5 GHz',
-    color: '#7C3AED', // Purple Violet
+    color: '#8B5CF6', // Violet
     lightColor: '#EDE9FE',
-    borderColor: '#6D28D9',
+    borderColor: '#7C3AED',
     textColor: '#FFFFFF',
   },
 ];
